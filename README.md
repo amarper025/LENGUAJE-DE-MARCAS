@@ -1,5 +1,5 @@
 Lenguaje de marcas de DAW
-## TEMA 1 - HTMK
+## TEMA 1 - HTML
 Ejercicio | Descripción
 ----------|------------
 [Ejercicio 1](/tema1/pagina.html)| Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección.
