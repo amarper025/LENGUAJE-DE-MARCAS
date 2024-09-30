@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+Ejercicio 1
+
+<h1>Nuevo libro de J.R.R. Tolkien</h1>
+<parrafo>"La editorial minotauro sacará el proximo dia 15 de noviembre la ultima parte de los textos escritos por el famoso Tolkien"</parrafo>
+
+
+Ejercicio2
+
+<biblioteca>
+<libro>
+    <título>Cien años de soledad</titulo>
+    <autor>Gabriel Garcia Márquez</autor>
+    <editorial>SM</editorial>
+    <paginas>210</editorial>
+    <genero>Novela</genero>
+</libro>
+<libro>
+    <título>El señor de los anillos</titulo>
+    <autor>J.R.R.TOLKIEN</autor>
+    <editorial>Minotauro</editorial>
+    <paginas>750</editorial>
+    <genero>Fantasía</genero>
+</libro>
+</biblioteca>
